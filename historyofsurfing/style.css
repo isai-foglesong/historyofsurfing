@@ -1,0 +1,16 @@
+body {
+  background-image: url(https://en.wikipedia.org/wiki/File:Mavericks_Surf_Contest_2010b.jpg);
+  background-size: cover;
+  background-position: center;
+  margin: 0; /* Removes the default margin to ensure the background covers the whole page */
+  color: #FFFFFF; /* Default text color */
+  font-family: 'Roboto', sans-serif; /* Roboto font for the body */
+}
+
+.centered-headline {
+  text-align: center;
+  margin-top: 50px; /* Adjust the top margin as needed */
+  color: #FFFFFF; /* Ensures the headline is visible on top of the background, adjust as needed */
+  text-shadow: 2px 2px 4px #000000;
+  font-family: 'Lato', sans-serif;
+}
